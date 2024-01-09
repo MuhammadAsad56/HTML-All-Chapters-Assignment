@@ -1,0 +1,59 @@
+body {
+    background-color: #f9ffc4;
+}
+
+h1 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+
+img {
+    border: 1px solid;
+}
+
+.education {
+    background-color: rgb(245 245 145);
+    width: 270px;
+}
+
+.about {
+    background-color: rgb(245 245 145);
+}
+
+.skills {
+    background-color: rgb(255 250 145);
+    width: 160px;
+}
+
+h2 {
+    background-color: #f9ff7e;
+    width: 300px;
+}
+
+thead {
+    background-color: #e6ff00;
+    ;
+}
+
+tbody {
+    background-color: #f9ff7e;
+}
+
+.btn>a{
+    background-color: #f2ff00;
+    margin: 70px;
+
+}
+
+thead.exponents {
+    background-color: #eaff92;
+}
+
+tbody.exponents {
+    background-color: rgb(244 251 111 / 69%);
+}
+
+.btan {
+    background-color: #f2ff00;
+
+}
